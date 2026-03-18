@@ -25,9 +25,12 @@ For adding through manual code edit:
 <br>
 
 Input fields: 
-- `discount_value` : enter a list of discount values (without %), separated by commas. 
+- `discount_value` : enter a list of discount values (without %), separated by commas.
+
 - `contain_tag` : enter a list of discount values, separated by commas.
+
     - Existing "contain_tag" :
+
         - `electric guitar` For all electric guitars.
         - `classical guitar` For all classical guitars.
         - `acoustic guitar` For all acoustic guitars.
