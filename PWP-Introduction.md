@@ -27,16 +27,15 @@ For adding through manual code edit:
 Input fields: 
 - `discount_value` : enter a list of discount values (without %), separated by commas. 
 - `contain_tag` : enter a list of discount values, separated by commas.
-
-Existing "contain_tag" :
-- `electric guitar` For all electric guitars.
-- `classical guitar` For all classical guitars.
-- `acoustic guitar` For all acoustic guitars.
-- `bass guitar` For all bass guitars.
-- `ukulele` For all ukuleles.
-- `digital and acoustic drum` For digital and acoustic drum
-- `keyboard and piano` For all keyboard and piano.
-- `dj` For all DJ related devices & equipments.
+    - Existing "contain_tag" :
+        - `electric guitar` For all electric guitars.
+        - `classical guitar` For all classical guitars.
+        - `acoustic guitar` For all acoustic guitars.
+        - `bass guitar` For all bass guitars.
+        - `ukulele` For all ukuleles.
+        - `digital and acoustic drum` For digital and acoustic drum
+        - `keyboard and piano` For all keyboard and piano.
+        - `dj` For all DJ related devices & equipments.
 
 <br><br>
 
