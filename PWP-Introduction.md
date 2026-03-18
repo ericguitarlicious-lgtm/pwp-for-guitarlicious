@@ -39,7 +39,7 @@ For example, `electric guitar` and `10` for 10% discount for add on products app
 
 *** This is the only step you need to type on the Google Sheet, don't type anything after this to avoid overiding the formulas.
 
-### Steps 1 :
+### Step 1 :
 Main product here refer to the main product which offer pwp promotions on other addons products. Add 1 tag to link the Main Product (s)
  
 ``` pwp-enable ```
@@ -51,11 +51,13 @@ Tag to link Addon Products, need to add 2 Tags for Addon Product.
 `pwp-{discount value}`   `pwp-{product category}`
 
 Example : 
+
 ``` pwp-10 ``` For example, pwp-10 for 10% discount.
+
 ``` pwp-10-electric guitar ```  For example, pwp-electric guitar for the addons of electric guitar.
 
 
--> Step 3 Onwards is ONLY for new product setting. <-
+> Step 3 Onwards is ONLY for new product setting. 
 
 
 ### STEP 3 : 
@@ -63,7 +65,9 @@ Example :
 Ensure You Have These Product Collection Created
 
 Example : 
+
 ``` pwp-10 ```
+
 ``` pwp-10-electric guitar ```
 
 
@@ -72,24 +76,8 @@ Example :
 Add Custom Code on Website Template(Place at Custom code in Shopify Editor or Custom Liquid File)"
 
 Example : 
+
 ``` pwp-electric guitar ```
-
-
----
-
-# How to Do Product Taggings?
-
-## Apply These Product Tags
-
-### 1. Add 1 Tag for Main Product
-
-
-### 2. Add 3 Tags for Addon Product
-Addon product here refer to the list of products offered at discounted value when you purchased main product.
-
-1. `pwp-{discount value}` For example, pwp-10 for 10% discount.
-
-2. `pwp-{product category}` For example, pwp-electric guitar for the addons of electric guitar.
 
 
 ---
