@@ -1,10 +1,14 @@
 # PWP Custom Snippet for Shopify
 
+<br><br>
+
 ## 1. Render Code to Show The PWP Section
 
 Below is the liquid render code to show the section in product detail page template, it can be inserted into.
 
 The values of `discount_value` and `contain_tag` need to be altered according to situation.
+
+<br>
 
 For Shopify drag-and-drop insert Custom Code feature:
 ```liquid
@@ -17,6 +21,8 @@ For adding through manual code edit:
 ```liquid
 {% render '_pwp-collection-list-2', discount_values: "15,20,25,30", contain_tag: 'electric guitar' %}
 ```
+
+<br>
 
 Input fields: 
 - `discount_value` : enter a list of discount values (without %), separated by commas. 
@@ -32,10 +38,14 @@ Existing "contain_tag" :
 - `keyboard and piano` For all keyboard and piano.
 - `dj` For all DJ related devices & equipments.
 
+<br><br>
+
 ## 2. Updating & Auto Generating the Render Codes & Tags
 You may refer to this Google Sheet to auto generate all the required code and tags.
 
 [Google Sheet - PWP Shopify Product Listing (Need to Request for Access)](https://docs.google.com/spreadsheets/d/13Y-FQ35LbT1wzt44DpB7TNYZkHFwryaDFuoiElt2qJM/edit?usp=sharing)
+
+<br>
 
 ### Steps 0 :
 
@@ -46,12 +56,14 @@ For example, `electric guitar` and `10` for 10% discount for add on products app
 *** This is the only step you need to type on the Google Sheet, don't type anything after this to avoid overiding the formulas.
 *** After this step, go to the next tab `PWP Create New: Output (JUST COPY, DO NOT EDIT)`
 
+<br>
 
 ### Step 1 :
 Main product here refer to the main product which offer pwp promotions on other addons products. Add 1 tag to link the Main Product (s)
  
 ``` pwp-enable ```
 
+<br>
 
 ### STEP 2 :
 
@@ -64,15 +76,18 @@ Example :
 
 ``` pwp-10-electric guitar ```  For example, pwp-electric guitar for the addons of electric guitar.
 
+<br><br>
 
-> Step 3 Onwards is ONLY for new product setting. 
+.... Step 3 Onwards is ONLY for new pwp setting, you only need to set up one time. 
 
+<br><br>
 
 ### STEP 3 : 
 
 Ensure You Have the 2 required Product Collection Created, with the name as follows
 
 ``` pwp-{discount value}-{category} ``` 
+
 ``` pwp-{discount value} ``` 
 
 Example : 
@@ -83,6 +98,7 @@ For discount, set the product tag automatically applies to `pwp-10` and `pwp-ele
 2. ``` pwp-10 ```
 For render, only need to add if theres a new percentage we've never use before.
 
+<br>
 
 ### STEP 4 : 
 
@@ -92,10 +108,11 @@ Example :
 
 ``` pwp-electric guitar ```
 
-
+<br><br><br><br>
 ---
+<br><br><br><br>
 
-# Reference : Original Code 
+# Reference : Full Code (Backup)
 
 This new created snippet file is located in \snippets\_pwp-collection-list.liquid (Just for reference, you may skip this part)
 
