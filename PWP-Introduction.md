@@ -112,7 +112,7 @@ Example :
 
 <br><br>
 
-.... Step 3 Onwards is ONLY for new pwp setting, you only need to set up one time. 
+**.... Step 3 Onwards is ONLY for new pwp setting, you only need to set up one time.**
 
 <br><br>
 
