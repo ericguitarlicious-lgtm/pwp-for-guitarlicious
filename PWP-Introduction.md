@@ -164,8 +164,6 @@ Add Custom Code on Website Template(Place at Custom code in Shopify Editor or Cu
 </div>
 ```
 <br><br><br><br>
----
-<br><br><br><br>
 
 # Part 3. Add Discount Rule On Shopify
 Create a new Discount Rule on shopify.
