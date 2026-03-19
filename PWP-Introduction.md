@@ -12,7 +12,8 @@ Therefore, this custom feature will be the "bridge" of existing shopify feature 
 <br><br>
 
 ## Visual Summary of This Documentation
-<img width="1391" height="481" alt="image" src="https://github.com/user-attachments/assets/4fcdbf4a-026c-464f-b06e-3e215b6c8d9a" />
+<img width="1246" height="515" alt="image" src="https://github.com/user-attachments/assets/d984a1ec-aaaf-4afe-b687-dced486f8c49" />
+
 
 <br><br>
 
