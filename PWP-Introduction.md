@@ -163,6 +163,17 @@ Add Custom Code on Website Template(Place at Custom code in Shopify Editor or Cu
     {% render '_pwp-collection-list-2', discount_values: "15,20,25,30", contain_tag: 'electric guitar' %}
 </div>
 ```
+<br><br><br><br>
+---
+<br><br><br><br>
+
+# Part 3. Add Discount Rule On Shopify
+Create a new Discount Rule on shopify.
+
+    Admin Dashboard > Discount (Left Sidebar) > Create Discount
+
+<img width="1380" height="841" alt="image" src="https://github.com/user-attachments/assets/9999e64b-1727-4411-9371-144964029382" />
+
 
 <br><br><br><br>
 ---
