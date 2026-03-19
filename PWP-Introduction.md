@@ -108,7 +108,7 @@ Example :
 
 ``` pwp-10 ``` For example, pwp-10 for 10% discount.
 
-``` pwp-10-electric guitar ```  For example, pwp-electric guitar for the addons of electric guitar.
+``` pwp-electric guitar ```  For example, pwp-electric guitar for the addons of electric guitar.
 
 <br><br>
 
