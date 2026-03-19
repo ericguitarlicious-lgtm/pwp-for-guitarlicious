@@ -1,8 +1,24 @@
 # PWP Custom Snippet for Shopify
 
+## How It Works
+Shopify admin panel already have a discount section, that we can set discount rules and promo codes.. 
+
+But it has a limitation: It doesnt have any available templates or frontend stuffs that we can just drag and show to our online customers.
+
+Therefore, this custom feature will be the "bridge" of existing shopify feature to get our job done, by designing a new PWP section in product detail page, and linking it with Shopify features such as Discount, Tags and Collection.
+
+<img width="1152" height="437" alt="image" src="https://github.com/user-attachments/assets/43a75ccc-cc81-4967-aa28-4c276e0756fa" />
+
+<br><br>
+
+## Visual Summary of This Documentation
+<img width="1391" height="481" alt="image" src="https://github.com/user-attachments/assets/4fcdbf4a-026c-464f-b06e-3e215b6c8d9a" />
+
 <br><br>
 
 ## 1. Render Code to Show The PWP Section
+
+For normal editing, you don't have to do this, it is the custom code to be added to the webpage on new product templates or new PWP discount rule.
 
 Below is the liquid render code to show the section in product detail page template, it can be inserted into.
 
