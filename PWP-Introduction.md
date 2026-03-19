@@ -17,7 +17,7 @@ Therefore, this custom feature will be the "bridge" of existing shopify feature 
 
 <br><br>
 
-## 1. Render Code to Show The PWP Section
+# Part 1. Render Code to Show The PWP Section
 
 For normal editing, you don't have to do this, it is the custom code to be added to the webpage on new product templates or new PWP discount rule.
 
@@ -59,7 +59,7 @@ Input fields:
 
 <br><br>
 
-## 2. Updating & Auto Generating the Render Codes & Tags
+# Part 2. Updating & Auto Generating the Render Codes & Tags
 You may refer to this Google Sheet to auto generate all the required code and tags.
 
 [Google Sheet - PWP Shopify Product Listing (Need to Request for Access)](https://docs.google.com/spreadsheets/d/13Y-FQ35LbT1wzt44DpB7TNYZkHFwryaDFuoiElt2qJM/edit?usp=sharing)
