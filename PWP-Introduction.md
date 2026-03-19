@@ -21,7 +21,7 @@ Therefore, this custom feature will be the "bridge" of existing shopify feature 
 
 For normal editing, you don't have to do this, it is the custom code to be added to the webpage on new product templates or new PWP discount rule.
 
-Below is the liquid render code to show the section in product detail page template, it can be inserted into.
+Below is the liquid render code to show the section in product detail page template, it can be inserted into as code.
 
 The values of `discount_value` and `contain_tag` need to be altered according to situation.
 
