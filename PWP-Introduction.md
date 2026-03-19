@@ -99,7 +99,10 @@ Main product here refer to the main product which offer pwp promotions on other 
 <img width="357" height="201" alt="image" src="https://github.com/user-attachments/assets/ab71f2fd-ee2a-48fd-8f9b-541d55120dbb" />
 
 Tag to link Addon Products, need to add 2 Tags for Addon Product.
-`pwp-{discount value}`   `pwp-{product category}`
+
+`pwp-{discount value}`
+
+`pwp-{product category}`
 
 Example : 
 
